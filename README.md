@@ -1,32 +1,42 @@
-### 🚀 Quiz Conhecimentos em HTML 
+
+
+### 🚀 **HTML Knowledge Quiz**
 
 #
 
-O projeto consiste em um jogo quiz sobre HTML com perguntas e respostas. O quiz possui 7(sete) fases, sendo as fases compostas por 1(uma) pergunta e 4(quatro) alternativas de resposta, a cada pergunta correta o usuário avança para a próxima pergunta, se o usuário errar aparece uma nova página com um botão de reiniciar.
+This project is a quiz game about HTML, featuring multiple-choice questions.
+The quiz contains **7 (seven) stages**, each consisting of **1 (one) question** and **4 (four) answer options**.
+For every correct answer, the user advances to the next question.
+If the user answers incorrectly, a new page appears with a restart button.
+
 #
 
-### 🛠️ Tecnologias usadas
+### 🛠️ **Technologies Used**
 
-- HTML
-- CSS
-- JavaScript
+* HTML
+* CSS
+* JavaScript
+
 #
 
-### 📋 Conhecimentos colocados em prática
+### 📋 **Skills Practiced**
 
-- HTML Semântico
-- Flexbox
-- Media Queries
-- Funções JS
-- Estrutura de repetição
-- Condicionais
-- DOM
+* Semantic HTML
+* Flexbox
+* Media Queries
+* JavaScript Functions
+* Loops
+* Conditionals
+* DOM Manipulation
+
 #
 
-### ⚙️ Resultado
+### ⚙️ **Live Demo**
 
-Acesse o site [aqui](https://projeto-final-m1-three.vercel.app/)
+Access the website **[here](https://projeto-final-m1-three.vercel.app/)**
+
 #
+
 ![image](https://github.com/hestturia/squad1/assets/132526900/a4d1e3cf-d9da-4a1d-97ca-ec564a2f756b)
 
 #
@@ -35,10 +45,8 @@ Acesse o site [aqui](https://projeto-final-m1-three.vercel.app/)
 
 #
 
-[video-proj-m1.webm](https://github.com/hestturia/squad1/assets/132526900/293a38fb-cfe6-4dbc-8309-2df229f0a30b)
+[https://github.com/hestturia/squad1/assets/132526900/293a38fb-cfe6-4dbc-8309-2df229f0a30b](https://github.com/hestturia/squad1/assets/132526900/293a38fb-cfe6-4dbc-8309-2df229f0a30b)
 
 #
-🖇️ Aplicação desenvolvida como projeto final do módulo 1 para a PdA(Programadores do Amanhã)  
 
-
-
+🖇️ *Application developed as the final project of Module 1 for PdA (Programadores do Amanhã).*
